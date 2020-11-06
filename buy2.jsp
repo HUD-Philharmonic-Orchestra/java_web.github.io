@@ -17,7 +17,7 @@
         <input type="submit" value="提交">
         <input type="submit" value="全部重选">
     </form>
-    <a href=".\buy1.jsp">买点别的</a>
+    <a href=".\index.jsp">买点别的</a>
     <a href=".\display.jsp">购物车</a>
 </body>
 </html>
